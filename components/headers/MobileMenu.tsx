@@ -125,9 +125,9 @@ export default function MobileMenu() {
                 className="mxd-menu__caption fade-in-elm"
                 style={{ transitionDelay: "0.4s" }}
               >
-                🦄 Innovative design
+                Charlie Cooke
                 <br />
-                and cutting-edge development
+                Digital Designer
               </p>
               <div className="main-menu">
                 <nav className="main-menu__content">
@@ -212,14 +212,14 @@ export default function MobileMenu() {
             <div className="mxd-menu__right">
               <div className="menu-promo">
                 <div className="menu-promo__content">
-                  <p
+                  {/* <p
                     className="menu-promo__caption fade-in-elm"
                     style={{ transitionDelay: "0.4s" }}
                   >
                     👋 New Rayo template is here!
                     <br />
                     Showcase your projects, services and expertise with impact.
-                  </p>
+                  </p> */}
                   <div
                     className="menu-promo__video fade-in-up-elm"
                     style={{ transitionDelay: "0.3s" }}
@@ -255,7 +255,7 @@ export default function MobileMenu() {
               className="mxd-menu__data fade-in-up-elm"
               style={{ transitionDelay: "0.4s" }}
             >
-              <p className="t-xsmall">
+              {/* <p className="t-xsmall">
                 Made with <i className="ph-fill ph-heart t-additional" /> by{" "}
                 <a
                   className="no-effect"
@@ -264,11 +264,11 @@ export default function MobileMenu() {
                 >
                   ib themes
                 </a>
-              </p>
-              <p className="t-xsmall">
+              </p> */}
+              {/* <p className="t-xsmall">
                 <i className="ph ph-copyright" />
                 2025
-              </p>
+              </p> */}
             </div>
           </div>
           <div className="hamburger__parking-slot" />
